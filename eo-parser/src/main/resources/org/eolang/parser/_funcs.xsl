@@ -43,4 +43,9 @@ SOFTWARE.
     <xsl:param name="bytes"/>
     <xsl:sequence select="if (string-length($bytes) = 0) then 0 else string-length(substring-before('0123456789ABCDEF', substring($bytes, string-length($bytes), 1))) + 16 * eo:bytes-to-int(substring($bytes, 1, string-length($bytes) - 1))"/>
   </xsl:function>
+  <xsl:function name="eo:bytes-to-double" as="xs:double">
+    <xsl:param name="bytes"/>
+    <xsl:variable name="len" select="string-length($bytes)"/>
+    <xsl:value-of select="if (string-length($bytes) &lt; 1) then 0 else eo:bytes-to-double(substring($bytes,1,$len - 1))*16+string-length(substring-before('0123456789ABCDEF',substring($bytes,$len)))"/>
+  </xsl:function>
 </xsl:stylesheet>

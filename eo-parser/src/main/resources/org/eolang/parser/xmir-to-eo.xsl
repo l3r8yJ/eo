@@ -175,6 +175,9 @@ SOFTWARE.
       <xsl:when test="@base='int'">
         <xsl:value-of select="eo:bytes-to-int(replace(text(), ' ', ''))"/>
       </xsl:when>
+      <xsl:when test="@base='double'">
+        <xsl:value-of select="eo:bytes-to-double(replace(text(), ' ', ''))"/>
+      </xsl:when>
       <xsl:otherwise>
         <xsl:value-of select="replace(text(), ' ', '-')"/>
       </xsl:otherwise>
