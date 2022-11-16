@@ -29,4 +29,9 @@ SOFTWARE.
       <xsl:value-of select="eo:bytes-to-int(text())"/>
     </xsl:copy>
   </xsl:template>
+  <xsl:template match="o">
+    <xsl:copy>
+      <xsl:value-of select="eo:bytes-to-double(text())"/>
+    </xsl:copy>
+  </xsl:template>
 </xsl:stylesheet>

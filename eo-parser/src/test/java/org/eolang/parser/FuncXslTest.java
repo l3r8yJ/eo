@@ -52,18 +52,36 @@ final class FuncXslTest {
         "FFFFFF , 16777215"
     })
     void runsXslFunction(final String bytes, final String num) {
-        final XML output = new XSLDocument(
-            new InputStreamOf(
-                new ResourceOf("org/eolang/parser/apply-func.xsl")
-            )
-        )
-            .with(new ClasspathSources())
-            .transform(new XMLDocument(String.format("<o>%s</o>", bytes)));
+        final XML output = FuncXslTest.fakeXml(bytes);
         MatcherAssert.assertThat(
             output,
             XhtmlMatchers.hasXPath(
                 String.format("/o[text()='%s']", num)
             )
         );
+    }
+
+    @ParameterizedTest
+    @CsvSource({
+        "31 32 33 2E 34 , 123.4"
+    })
+    void bytesToDoubleXsl(final String bytes, final String num) {
+        final XML output = FuncXslTest.fakeXml(bytes);
+        MatcherAssert.assertThat(
+            output,
+            XhtmlMatchers.hasXPath(
+                String.format("/o[text()='%s']", num)
+            )
+        );
+    }
+
+    private static XML fakeXml(final String bytes) {
+        return new XSLDocument(
+            new InputStreamOf(
+                new ResourceOf("org/eolang/parser/apply-func.xsl")
+            )
+        )
+            .with(new ClasspathSources())
+            .transform(new XMLDocument(String.format("<o>%s</o>", bytes)));
     }
 }
