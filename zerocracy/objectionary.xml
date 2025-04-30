@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1134">
+<fb version="0.9.6" size="794">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API rate limit exceeded for 52.234.46.157. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">74.175283793</seconds>
+    <seconds t="F">7.776991827</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-04-30T06:19:26Z</when>
+    <when t="T">2025-04-30T07:12:46Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-04-30T06:18:12Z</_time>
+    <_time t="T">2025-04-30T07:12:46Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-02T06:18:12Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-04-30T06:18:12Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-04-30T07:12:46Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-04-30T06:19:25Z</_time>
+    <_time t="T">2025-04-30T07:12:46Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-04-30T06:19:25Z</when>
+    <since t="T">2025-04-02T07:12:46Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-04-30T07:12:46Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-04-30T06:19:25Z</_time>
+    <_time t="T">2025-04-30T07:12:46Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-02T06:19:26Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-04-30T06:19:26Z</when>
+    <since t="T">2025-04-02T07:12:46Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-04-30T07:12:46Z</when>
   </f>
 </fb>
