@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/xax/pulls/90/reviews?per_page=100:
+    403 - API rate limit exceeded for 74.235.134.176. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 7.040452753
+  seconds: 158.385301651
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-04 10:12:15.942779695 Z
+  when: 2025-05-04 11:12:27.691743912 Z
 - _id: 1
-  _time: 2025-05-04 10:12:15.610150327 Z
+  _time: 2025-05-04 11:09:49.631243876 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-06 10:12:15.610382421 Z
+  since: 2025-04-06 11:09:49.631502901 Z
   what: quantity-of-deliverables
-  when: 2025-05-04 10:12:15.610339351 Z
+  when: 2025-05-04 11:09:49.631461523 Z
 - _id: 2
-  _time: 2025-05-04 10:12:15.611487900 Z
+  _time: 2025-05-04 11:12:27.689284878 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-04-06 11:12:27.689457601 Z
+  what: quality-of-service
+  when: 2025-05-04 11:12:27.689422285 Z
+- _id: 3
+  _time: 2025-05-04 11:12:27.690665419 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-04 10:12:15.611589050 Z
-- _id: 3
-  _time: 2025-05-04 10:12:15.937270064 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-04-06 10:12:15.937434372 Z
-  what: quality-of-service
-  when: 2025-05-04 10:12:15.937400859 Z
+  when: 2025-05-04 11:12:27.690768612 Z
