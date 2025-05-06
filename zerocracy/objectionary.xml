@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1186">
+<fb version="0.9.6" size="888">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/sodg-maven-plugin/commits/8925c822fc353961954176a10b3ab126fd44fffc: 403 - API rate limit exceeded for 20.168.85.0. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
+    <error t="S">Judge quality-of-service stopped by timeout after 3m0s: execution expired</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">113.220645315</seconds>
+    <seconds t="F">180.372346114</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-06T12:27:44Z</when>
+    <when t="T">2025-05-06T13:29:42Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-06T12:25:51Z</_time>
+    <_time t="T">2025-05-06T13:26:42Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-08T12:25:51Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-06T12:25:51Z</when>
+    <since t="T">2025-04-08T13:26:42Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-06T13:26:42Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-06T12:27:43Z</_time>
+    <_time t="T">2025-05-06T13:29:42Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-08T12:27:43Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-06T12:27:43Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-06T13:29:42Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-06T12:27:43Z</_time>
+    <_time t="T">2025-05-06T13:29:42Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-06T12:27:43Z</when>
+    <since t="T">2025-04-08T13:29:42Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-06T13:29:42Z</when>
   </f>
 </fb>
