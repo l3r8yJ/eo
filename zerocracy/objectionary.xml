@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="822">
+<fb version="0.9.6" size="794">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">157.24738704</seconds>
+    <seconds t="F">17.69646055</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-07T06:20:52Z</when>
+    <when t="T">2025-05-07T07:13:24Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-07T06:20:51Z</_time>
+    <_time t="T">2025-05-07T07:13:24Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <average_triage_time t="I">0</average_triage_time>
-    <since t="T">2025-04-09T06:18:15Z</since>
+    <since t="T">2025-04-09T07:13:24Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-05-07T06:18:15Z</when>
+    <when t="T">2025-05-07T07:13:24Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-07T06:20:51Z</_time>
+    <_time t="T">2025-05-07T07:13:24Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-07T06:20:51Z</when>
+    <since t="T">2025-04-09T07:13:24Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-07T07:13:24Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-07T06:20:51Z</_time>
+    <_time t="T">2025-05-07T07:13:24Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-09T06:20:51Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-07T06:20:51Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-07T07:13:24Z</when>
   </f>
 </fb>
