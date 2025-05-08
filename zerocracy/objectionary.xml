@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="876">
+<fb version="0.9.6" size="868">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">20.321749732</seconds>
+    <seconds t="F">14.643829045</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-08T18:17:43Z</when>
+    <when t="T">2025-05-08T19:10:43Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-08T18:17:42Z</_time>
+    <_time t="T">2025-05-08T19:10:43Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <average_release_commits_size t="F">95.5</average_release_commits_size>
-    <average_release_hoc_size t="F">2193.5</average_release_hoc_size>
-    <since t="T">2025-04-10T18:17:23Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-08T18:17:23Z</when>
+    <total_forks t="I">318</total_forks>
+    <total_releases t="I">599</total_releases>
+    <total_stars t="I">1573</total_stars>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-08T19:10:29Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-08T18:17:43Z</_time>
+    <_time t="T">2025-05-08T19:10:43Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-10T18:17:43Z</since>
+    <since t="T">2025-04-10T19:10:43Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-08T18:17:43Z</when>
+    <when t="T">2025-05-08T19:10:43Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-08T18:17:43Z</_time>
+    <_time t="T">2025-05-08T19:10:43Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-08T18:17:43Z</when>
+    <since t="T">2025-04-10T19:10:43Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-08T19:10:43Z</when>
   </f>
 </fb>
