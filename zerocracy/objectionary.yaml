@@ -2,29 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/lints/pulls/506/reviews?per_page=100:
-    403 - API rate limit exceeded for 20.169.13.156. (But here''s the good news: Authenticated
-    requests get a higher rate limit. Check out the documentation for more details.)
-    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 123.075198841
+  seconds: 13.133589795
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-09 17:13:35.770373567 Z
+  when: 2025-05-09 18:17:01.575016232 Z
 - _id: 1
-  _time: 2025-05-09 17:11:33.021329090 Z
+  _time: 2025-05-09 18:17:01.222273522 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-11 17:11:33.021573028 Z
-  what: quantity-of-deliverables
-  when: 2025-05-09 17:11:33.021533143 Z
+  since: 2025-04-11 18:17:01.222452285 Z
+  what: quality-of-service
+  when: 2025-05-09 18:17:01.222415777 Z
 - _id: 2
-  _time: 2025-05-09 17:13:35.261421612 Z
+  _time: 2025-05-09 18:17:01.223715920 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-04-11 18:17:01.223846573 Z
+  what: quantity-of-deliverables
+  when: 2025-05-09 18:17:01.223813481 Z
+- _id: 3
+  _time: 2025-05-09 18:17:01.569292459 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-09 17:13:35.261554491 Z
-- _id: 3
-  _time: 2025-05-09 17:13:35.439616900 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-04-11 17:13:35.439806586 Z
-  what: quality-of-service
-  when: 2025-05-09 17:13:35.439771139 Z
+  when: 2025-05-09 18:17:01.569432420 Z
