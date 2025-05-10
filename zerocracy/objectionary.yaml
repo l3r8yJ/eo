@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/sodg/pulls/140/reviews?per_page=100:
+    403 - API rate limit exceeded for 20.42.51.84. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 7.924413694
+  seconds: 123.014705219
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-10 20:12:44.724855934 Z
+  when: 2025-05-10 21:12:21.785541071 Z
 - _id: 1
-  _time: 2025-05-10 20:12:44.385274590 Z
+  _time: 2025-05-10 21:10:19.087696128 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-12 20:12:44.385482238 Z
+  since: 2025-04-12 21:10:19.087927481 Z
   what: quantity-of-deliverables
-  when: 2025-05-10 20:12:44.385443806 Z
+  when: 2025-05-10 21:10:19.087888769 Z
 - _id: 2
-  _time: 2025-05-10 20:12:44.389173377 Z
+  _time: 2025-05-10 21:12:21.775120508 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-10 20:12:44.389272742 Z
+  when: 2025-05-10 21:12:21.775247636 Z
 - _id: 3
-  _time: 2025-05-10 20:12:44.723862451 Z
+  _time: 2025-05-10 21:12:21.776454836 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-12 20:12:44.724015777 Z
+  since: 2025-04-12 21:12:21.776625185 Z
   what: quality-of-service
-  when: 2025-05-10 20:12:44.723981883 Z
+  when: 2025-05-10 21:12:21.776556346 Z
