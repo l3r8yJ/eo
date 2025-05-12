@@ -2,25 +2,26 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'Judge quality-of-service stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 7.521620741
+  seconds: 180.674867011
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-12 18:17:34.724732295 Z
+  when: 2025-05-12 19:13:38.380493528 Z
 - _id: 1
-  _time: 2025-05-12 18:17:34.384215361 Z
+  _time: 2025-05-12 19:10:38.031890392 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-04-14 19:10:38.032071773 Z
+  what: quality-of-service
+  when: 2025-05-12 19:10:38.032034573 Z
+- _id: 2
+  _time: 2025-05-12 19:13:38.036512110 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-12 18:17:34.384380209 Z
-- _id: 2
-  _time: 2025-05-12 18:17:34.386569876 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-04-14 18:17:34.386703156 Z
-  what: quantity-of-deliverables
-  when: 2025-05-12 18:17:34.386669643 Z
+  when: 2025-05-12 19:13:38.036641052 Z
 - _id: 3
-  _time: 2025-05-12 18:17:34.388048202 Z
+  _time: 2025-05-12 19:13:38.379468807 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-14 18:17:34.388179067 Z
-  what: quality-of-service
-  when: 2025-05-12 18:17:34.388146406 Z
+  since: 2025-04-14 19:13:38.379630920 Z
+  what: quantity-of-deliverables
+  when: 2025-05-12 19:13:38.379595945 Z
