@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="896">
+<fb version="0.9.6" size="1121">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired</error>
+    <error t="S">GET https://api.github.com/repos/objectionary/speco: 403 - API rate limit exceeded for 13.88.98.8. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">180.411044343</seconds>
+    <seconds t="F">73.739265526</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-15T02:41:26Z</when>
+    <when t="T">2025-05-15T03:39:17Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-15T02:38:26Z</_time>
+    <_time t="T">2025-05-15T03:38:04Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-17T02:38:26Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-15T02:38:26Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-15T03:38:04Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-15T02:41:26Z</_time>
+    <_time t="T">2025-05-15T03:39:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-17T02:41:26Z</since>
+    <since t="T">2025-04-17T03:39:17Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-05-15T02:41:26Z</when>
+    <when t="T">2025-05-15T03:39:17Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-15T02:41:26Z</_time>
+    <_time t="T">2025-05-15T03:39:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-15T02:41:26Z</when>
+    <since t="T">2025-04-17T03:39:17Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-15T03:39:17Z</when>
   </f>
 </fb>
