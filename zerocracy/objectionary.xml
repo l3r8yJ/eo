@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="894">
+<fb version="0.9.6" size="790">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">180.666128846</seconds>
+    <seconds t="F">9.782906173</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-17T08:22:59Z</when>
+    <when t="T">2025-05-17T09:12:23Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-17T08:19:59Z</_time>
+    <_time t="T">2025-05-17T09:12:22Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-19T08:19:59Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-17T08:19:59Z</when>
+    <since t="T">2025-04-19T09:12:22Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-17T09:12:22Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-17T08:22:59Z</_time>
+    <_time t="T">2025-05-17T09:12:22Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-17T08:22:59Z</when>
+    <when t="T">2025-05-17T09:12:22Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-17T08:22:59Z</_time>
+    <_time t="T">2025-05-17T09:12:22Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-19T08:22:59Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-17T08:22:59Z</when>
+    <since t="T">2025-04-19T09:12:22Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-17T09:12:22Z</when>
   </f>
 </fb>
