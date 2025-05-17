@@ -2,26 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge quality-of-service stopped by timeout after 3m0s: execution expired'
+  error: 'GET https://api.github.com/repos/objectionary/opeo-maven-plugin/pulls/462/reviews?per_page=100:
+    403 - API rate limit exceeded for 20.172.16.121. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 180.363467675
+  seconds: 87.60003232
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-17 03:37:49.272225388 Z
+  when: 2025-05-17 04:16:27.665437983 Z
 - _id: 1
-  _time: 2025-05-17 03:34:49.233595436 Z
+  _time: 2025-05-17 04:15:00.391746739 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-19 03:34:49.233850572 Z
-  what: quality-of-service
-  when: 2025-05-17 03:34:49.233809264 Z
+  since: 2025-04-19 04:15:00.391991458 Z
+  what: quantity-of-deliverables
+  when: 2025-05-17 04:15:00.391952836 Z
 - _id: 2
-  _time: 2025-05-17 03:37:48.912713283 Z
+  _time: 2025-05-17 04:16:27.661035491 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-17 03:37:48.912842744 Z
+  when: 2025-05-17 04:16:27.661178269 Z
 - _id: 3
-  _time: 2025-05-17 03:37:48.927001436 Z
+  _time: 2025-05-17 04:16:27.663639367 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-19 03:37:48.927154261 Z
-  what: quantity-of-deliverables
-  when: 2025-05-17 03:37:48.927119265 Z
+  since: 2025-04-19 04:16:27.663835125 Z
+  what: quality-of-service
+  when: 2025-05-17 04:16:27.663797865 Z
