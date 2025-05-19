@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1125">
+<fb version="0.9.6" size="819">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/speco: 403 - API rate limit exceeded for 13.86.155.112. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">74.364620562</seconds>
+    <seconds t="F">12.30488264</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-19T21:13:18Z</when>
+    <when t="T">2025-05-19T22:12:39Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-19T21:13:18Z</_time>
+    <_time t="T">2025-05-19T22:12:39Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
+    <total_files t="I">4809</total_files>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-19T21:13:18Z</when>
+    <when t="T">2025-05-19T22:12:27Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-19T21:13:18Z</_time>
+    <_time t="T">2025-05-19T22:12:39Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-21T21:13:18Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-19T21:13:18Z</when>
+    <since t="T">2025-04-21T22:12:39Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-19T22:12:39Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-19T21:13:18Z</_time>
+    <_time t="T">2025-05-19T22:12:39Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-21T21:13:18Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-19T21:13:18Z</when>
+    <since t="T">2025-04-21T22:12:39Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-19T22:12:39Z</when>
   </f>
 </fb>
