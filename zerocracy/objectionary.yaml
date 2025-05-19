@@ -3,38 +3,26 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 17.743601056
+  seconds: 34.980160633
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-19 19:10:39.552832599 Z
+  when: 2025-05-19 20:14:49.894060401 Z
 - _id: 1
-  _time: 2025-05-19 19:10:39.203731232 Z
+  _time: 2025-05-19 20:14:49.514759471 Z
   _version: 0.10.0/0.41.0/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 2
-  _time: 2025-05-19 19:10:39.206182290 Z
-  _version: 0.10.0/0.41.0/
-  latest: 0
-  repository: 403396472
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-05-19 19:10:39.208753096 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-04-21 19:10:39.208940287 Z
-  what: quantity-of-deliverables
-  when: 2025-05-19 19:10:39.208902747 Z
-- _id: 4
-  _time: 2025-05-19 19:10:39.210274590 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-04-21 19:10:39.210409393 Z
+  average_release_commits_size: 112.33333333333333
+  average_release_hoc_size: 1963.0
+  since: 2025-04-21 20:14:15.236476106 Z
   what: quality-of-service
-  when: 2025-05-19 19:10:39.210375650 Z
-- _id: 5
-  _time: 2025-05-19 19:10:39.550645746 Z
+  when: 2025-05-19 20:14:15.236437424 Z
+- _id: 2
+  _time: 2025-05-19 20:14:49.521574675 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-19 19:10:39.550804013 Z
+  when: 2025-05-19 20:14:49.521674822 Z
+- _id: 3
+  _time: 2025-05-19 20:14:49.525652941 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-04-21 20:14:49.525789536 Z
+  what: quantity-of-deliverables
+  when: 2025-05-19 20:14:49.525757957 Z
