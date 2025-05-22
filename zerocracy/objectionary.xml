@@ -1,124 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="3161">
+<fb version="0.9.6" size="826">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">13.4960737</seconds>
+    <seconds t="F">13.804603826</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-21T23:12:32Z</when>
+    <when t="T">2025-05-22T01:00:15Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-21T23:12:19Z</_time>
+    <_time t="T">2025-05-22T01:00:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-21T23:12:19Z</when>
+    <since t="T">2025-04-24T01:00:02Z</since>
+    <total_releases_published t="I">6</total_releases_published>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-22T01:00:02Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-21T23:12:31Z</_time>
+    <_time t="T">2025-05-22T01:00:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <commit t="S">cc96913c47cc1218f2ad07dec225ac2be3cae81c</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24376457645 has arrived to objectionary/on-the-origin-of-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49872892642</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24376457645</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">499536612</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-19T09:54:15Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-04-24T01:00:15Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-22T01:00:15Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-21T23:12:31Z</_time>
+    <_time t="T">2025-05-22T01:00:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <branch t="S">renovate/yegor256-latexmk-action-0.x</branch>
-    <details t="S">The pull request objectionary/on-the-origin-of-objects#41 has been opened by @renovate[bot].</details>
-    <event_id t="I">49829280773</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">41</issue>
-    <repository t="I">499536612</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-17T06:49:56Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-05-21T23:12:31Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <commit t="S">46c7fca461c24083e693c36e4f2bc1c83c472654</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24268494051 has arrived to objectionary/on-the-origin-of-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49663702077</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24268494051</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">499536612</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-13T12:29:17Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-05-21T23:12:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <commit t="S">2bee120a6771fda2278c82d9eb62041fad8c0206</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24179698619 has arrived to objectionary/on-the-origin-of-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49493606932</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24179698619</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">499536612</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-08T09:22:14Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-05-21T23:12:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <commit t="S">f38d0d88fac1a2ee4d20f4c03ff6a83229de8d53</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24168433433 has arrived to objectionary/on-the-origin-of-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49471352385</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24168433433</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">499536612</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-07T18:53:25Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-05-21T23:12:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-23T23:12:32Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-21T23:12:32Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-05-21T23:12:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-04-23T23:12:32Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-21T23:12:32Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-22T01:00:15Z</when>
   </f>
 </fb>
