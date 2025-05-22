@@ -2,29 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/lints/pulls/480/reviews?per_page=100:
-    403 - API rate limit exceeded for 4.246.205.232. (But here''s the good news: Authenticated
+  error: 'GET https://api.github.com/repos/objectionary/phino/actions/runs/15153447508/timing:
+    403 - API rate limit exceeded for 40.71.186.133. (But here''s the good news: Authenticated
     requests get a higher rate limit. Check out the documentation for more details.)
     // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 100.003400315
+  seconds: 154.488144985
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-22 17:13:17.559490948 Z
+  when: 2025-05-22 18:20:01.328072971 Z
 - _id: 1
-  _time: 2025-05-22 17:11:37.879258395 Z
+  _time: 2025-05-22 18:17:27.168834764 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-24 17:11:37.879503943 Z
-  what: quantity-of-deliverables
-  when: 2025-05-22 17:11:37.879464249 Z
+  since: 2025-04-24 18:17:27.169085702 Z
+  what: quality-of-service
+  when: 2025-05-22 18:17:27.169046169 Z
 - _id: 2
-  _time: 2025-05-22 17:13:17.048896930 Z
+  _time: 2025-05-22 18:20:00.999939255 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-04-24 18:20:01.000104513 Z
+  what: quantity-of-deliverables
+  when: 2025-05-22 18:20:01.000068496 Z
+- _id: 3
+  _time: 2025-05-22 18:20:01.324854311 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-22 17:13:17.049023587 Z
-- _id: 3
-  _time: 2025-05-22 17:13:17.558395363 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-04-24 17:13:17.558556153 Z
-  what: quality-of-service
-  when: 2025-05-22 17:13:17.558522710 Z
+  when: 2025-05-22 18:20:01.324985686 Z
