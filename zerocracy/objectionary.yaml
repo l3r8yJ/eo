@@ -3,26 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 16.019524151
+  seconds: 0.763083087
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-22 08:17:44.295989850 Z
+  when: 2025-05-22 09:13:43.048350160 Z
 - _id: 1
-  _time: 2025-05-22 08:17:43.863465259 Z
+  _time: 2025-05-22 09:13:43.035105865 Z
   _version: 0.10.0/0.41.0/
-  average_release_commits_size: 159.5
-  average_release_hoc_size: 1893.5
-  since: 2025-04-24 08:17:28.622246619 Z
-  what: quality-of-service
-  when: 2025-05-22 08:17:28.622203378 Z
+  since: 2025-04-24 09:13:43.035350433 Z
+  what: quantity-of-deliverables
+  when: 2025-05-22 09:13:43.035305419 Z
 - _id: 2
-  _time: 2025-05-22 08:17:44.284952919 Z
+  _time: 2025-05-22 09:13:43.041688970 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-22 08:17:44.285083102 Z
+  when: 2025-05-22 09:13:43.041799728 Z
 - _id: 3
-  _time: 2025-05-22 08:17:44.293901813 Z
+  _time: 2025-05-22 09:13:43.043077003 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-04-24 08:17:44.294048727 Z
-  what: quantity-of-deliverables
-  when: 2025-05-22 08:17:44.294014152 Z
+  since: 2025-04-24 09:13:43.043213429 Z
+  what: quality-of-service
+  when: 2025-05-22 09:13:43.043177782 Z
