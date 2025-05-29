@@ -1,37 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1169">
+<fb version="0.9.6" size="961">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/eo-phi-normalizer/actions/runs/15036059123/timing: 403 - API rate limit exceeded for 20.39.34.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">106.455526445</seconds>
+    <seconds t="F">9.749373725</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-29T02:47:00Z</when>
+    <when t="T">2025-05-29T03:41:16Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-29T02:45:14Z</_time>
+    <_time t="T">2025-05-29T03:41:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-01T02:45:14Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-29T02:45:14Z</when>
+    <latest t="I">0</latest>
+    <repository t="I">386420319</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-29T02:47:00Z</_time>
+    <_time t="T">2025-05-29T03:41:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-29T02:47:00Z</when>
+    <when t="T">2025-05-29T03:41:15Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-29T02:47:00Z</_time>
+    <_time t="T">2025-05-29T03:41:16Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-01T02:47:00Z</since>
+    <since t="T">2025-05-01T03:41:16Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-29T02:47:00Z</when>
+    <when t="T">2025-05-29T03:41:16Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-05-29T03:41:16Z</_time>
+    <_version t="S">0.10.0/0.41.0/</_version>
+    <since t="T">2025-05-01T03:41:16Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-29T03:41:16Z</when>
   </f>
 </fb>
