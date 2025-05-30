@@ -2,27 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge quantity-of-deliverables stopped by timeout after 3m0s: execution
-    expired'
   inserted: 8
-  seconds: 180.718302069
+  seconds: 10.260995522
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-30 07:15:34.686717484 Z
+  when: 2025-05-30 08:17:12.897084797 Z
 - _id: 1
-  _time: 2025-05-30 07:12:34.289183236 Z
+  _time: 2025-05-30 08:17:12.886948619 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-05-02 07:12:34.289354206 Z
+  since: 2025-05-02 08:17:12.887139546 Z
   what: quantity-of-deliverables
-  when: 2025-05-30 07:12:34.289312297 Z
+  when: 2025-05-30 08:17:12.887099592 Z
 - _id: 2
-  _time: 2025-05-30 07:15:34.297628133 Z
+  _time: 2025-05-30 08:17:12.893499420 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-02 08:17:12.893777261 Z
+  what: quality-of-service
+  when: 2025-05-30 08:17:12.893713732 Z
+- _id: 3
+  _time: 2025-05-30 08:17:12.896131401 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-30 07:15:34.297751965 Z
-- _id: 3
-  _time: 2025-05-30 07:15:34.684135290 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-02 07:15:34.684297194 Z
-  what: quality-of-service
-  when: 2025-05-30 07:15:34.684263691 Z
+  when: 2025-05-30 08:17:12.896236949 Z
