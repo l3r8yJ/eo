@@ -4,34 +4,34 @@
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">11.268672509</seconds>
+    <seconds t="F">138.486939872</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-31T21:11:16Z</when>
+    <when t="T">2025-05-31T22:13:40Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-31T21:11:05Z</_time>
+    <_time t="T">2025-05-31T22:13:40Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
+    <total_active_contributors t="I">11</total_active_contributors>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-31T21:11:05Z</when>
+    <when t="T">2025-05-31T22:11:22Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-31T21:11:16Z</_time>
+    <_time t="T">2025-05-31T22:13:40Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-03T21:11:16Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-31T21:11:16Z</when>
+    <since t="T">2025-05-03T22:13:40Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-05-31T22:13:40Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-31T21:11:16Z</_time>
+    <_time t="T">2025-05-31T22:13:40Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-03T21:11:16Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-05-31T21:11:16Z</when>
+    <since t="T">2025-05-03T22:13:40Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-31T22:13:40Z</when>
   </f>
 </fb>
