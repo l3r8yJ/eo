@@ -2,26 +2,26 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge quality-of-service stopped by timeout after 3m0s: execution expired'
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 180.671466371
+  seconds: 7.629972556
   version: 0.41.0
   what: judges-summary
-  when: 2025-05-31 12:24:28.946343826 Z
+  when: 2025-05-31 13:22:31.925664644 Z
 - _id: 1
-  _time: 2025-05-31 12:21:28.608099921 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-03 12:21:28.608280637 Z
-  what: quality-of-service
-  when: 2025-05-31 12:21:28.608241474 Z
-- _id: 2
-  _time: 2025-05-31 12:24:28.614460362 Z
+  _time: 2025-05-31 13:22:24.628247432 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-05-31 12:24:28.614582580 Z
-- _id: 3
-  _time: 2025-05-31 12:24:28.944253312 Z
+  when: 2025-05-31 13:22:24.628400167 Z
+- _id: 2
+  _time: 2025-05-31 13:22:31.914443041 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-05-03 12:24:28.944409092 Z
+  since: 2025-05-03 13:22:31.914698377 Z
+  what: quality-of-service
+  when: 2025-05-31 13:22:31.914642823 Z
+- _id: 3
+  _time: 2025-05-31 13:22:31.922624233 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-03 13:22:31.922768413 Z
   what: quantity-of-deliverables
-  when: 2025-05-31 12:24:28.944374969 Z
+  when: 2025-05-31 13:22:31.922735120 Z
