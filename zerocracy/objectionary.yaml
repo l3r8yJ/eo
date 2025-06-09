@@ -2,29 +2,26 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/phino/pulls/64: 403 - API
-    rate limit exceeded for 172.174.93.235. (But here''s the good news: Authenticated
-    requests get a higher rate limit. Check out the documentation for more details.)
-    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 132.461703467
+  seconds: 10.474418519
   version: 0.41.0
   what: judges-summary
-  when: 2025-06-09 06:22:28.637858690 Z
+  when: 2025-06-09 07:14:38.906737581 Z
 - _id: 1
-  _time: 2025-06-09 06:20:16.507562942 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-12 06:20:16.507818147 Z
-  what: quality-of-service
-  when: 2025-06-09 06:20:16.507776560 Z
-- _id: 2
-  _time: 2025-06-09 06:22:28.634202146 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-12 06:22:28.634383113 Z
-  what: quantity-of-deliverables
-  when: 2025-06-09 06:22:28.634332699 Z
-- _id: 3
-  _time: 2025-06-09 06:22:28.636873206 Z
+  _time: 2025-06-09 07:14:28.754476315 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-06-09 06:22:28.636982229 Z
+  when: 2025-06-09 07:14:28.754659105 Z
+- _id: 2
+  _time: 2025-06-09 07:14:38.893623173 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-12 07:14:38.893789433 Z
+  what: quantity-of-deliverables
+  when: 2025-06-09 07:14:38.893754097 Z
+- _id: 3
+  _time: 2025-06-09 07:14:38.897572188 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-12 07:14:38.897712750 Z
+  what: quality-of-service
+  when: 2025-06-09 07:14:38.897681211 Z
