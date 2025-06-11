@@ -5,33 +5,33 @@
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">15.147205116</seconds>
+    <seconds t="F">142.551051424</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-11T19:10:33Z</when>
+    <when t="T">2025-06-11T20:15:25Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-11T19:10:32Z</_time>
+    <_time t="T">2025-06-11T20:15:25Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-14T19:10:18Z</since>
-    <total_releases_published t="I">8</total_releases_published>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-11T19:10:18Z</when>
+    <total_active_contributors t="I">14</total_active_contributors>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-06-11T20:13:03Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-11T19:10:33Z</_time>
+    <_time t="T">2025-06-11T20:15:25Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-11T19:10:33Z</when>
+    <since t="T">2025-05-14T20:15:25Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-11T20:15:25Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-11T19:10:33Z</_time>
+    <_time t="T">2025-06-11T20:15:25Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-14T19:10:33Z</since>
+    <since t="T">2025-05-14T20:15:25Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-06-11T19:10:33Z</when>
+    <when t="T">2025-06-11T20:15:25Z</when>
   </f>
 </fb>
