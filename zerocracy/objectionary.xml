@@ -1,203 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="4114">
+<fb version="0.9.6" size="843">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">25.014771118</seconds>
+    <seconds t="F">15.412605482</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
+    <when t="T">2025-06-12T14:13:32Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-12T13:28:30Z</_time>
+    <_time t="T">2025-06-12T14:13:32Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <comments t="I">5</comments>
-    <commits t="I">11</commits>
-    <details t="S">The pull request objectionary/lints#633 has been reviewed by @maxonfjvipon with 116 HoC and 5 comments.</details>
-    <event_id t="I">50793184307</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">8</files>
-    <hoc t="I">116</hoc>
-    <issue t="I">633</issue>
-    <repository t="I">889819508</repository>
-    <review_comments t="I">1</review_comments>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-06-11T20:30:37Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
+    <average_release_interval t="F">257826.57142857142</average_release_interval>
+    <since t="T">2025-05-15T14:13:17Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-06-12T14:13:17Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-12T13:28:31Z</_time>
+    <_time t="T">2025-06-12T14:13:32Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <details t="S">The issue objectionary/lints#630 has been closed by @h1alexbel.</details>
-    <event_id t="I">50678008419</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">630</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-06-09T13:58:40Z</when>
-    <where t="S">github</where>
-    <who t="I">83453843</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-06-12T14:13:32Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-12T13:28:31Z</_time>
+    <_time t="T">2025-06-12T14:13:32Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <commit t="S">5bac39ae86f5fecfa930480dc118d36851d894f9</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24777471077 has arrived to objectionary/lints, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">50660420676</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24777471077</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">889819508</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-06-09T05:47:49Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-06-12T13:28:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <details t="S">The issue objectionary/lints#634 has been closed by @yegor256.</details>
-    <event_id t="I">50660057848</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">634</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-06-09T05:32:31Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-06-12T13:28:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <details t="S">The issue objectionary/lints#637 has been opened by @yegor256.</details>
-    <event_id t="I">50649383905</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">637</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-06-08T17:13:42Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-06-12T13:28:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <details t="S">The issue objectionary/lints#636 has been opened by @yegor256.</details>
-    <event_id t="I">50649274129</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">636</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-06-08T17:05:02Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-06-12T13:28:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <details t="S">The issue objectionary/lints#635 has been opened by @yegor256.</details>
-    <event_id t="I">50648835471</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">635</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-06-08T16:30:55Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-06-12T13:28:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <details t="S">The issue objectionary/lints#634 has been opened by @yegor256.</details>
-    <event_id t="I">50648767340</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">634</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-06-08T16:25:43Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-06-12T13:28:32Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <branch t="S">624</branch>
-    <details t="S">The pull request objectionary/lints#633 has been opened by @h1alexbel.</details>
-    <event_id t="I">50645983241</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">633</issue>
-    <repository t="I">889819508</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-08T13:00:47Z</when>
-    <where t="S">github</where>
-    <who t="I">83453843</who>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-06-12T13:28:34Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-06-12T13:28:34Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-15T13:28:34Z</since>
+    <since t="T">2025-05-15T14:13:32Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
-  </f>
-  <f>
-    <_id t="I">12</_id>
-    <_time t="T">2025-06-12T13:28:34Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <name t="S">maxonfjvipon</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">13</_id>
-    <_time t="T">2025-06-12T13:28:34Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <name t="S">h1alexbel</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
-    <where t="S">github</where>
-    <who t="I">83453843</who>
-  </f>
-  <f>
-    <_id t="I">14</_id>
-    <_time t="T">2025-06-12T13:28:34Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">15</_id>
-    <_time t="T">2025-06-12T13:28:34Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-15T13:28:34Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-12T13:28:34Z</when>
+    <when t="T">2025-06-12T14:13:32Z</when>
   </f>
 </fb>
