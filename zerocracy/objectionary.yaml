@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/dejump/pulls/90/reviews?per_page=100:
+    403 - API rate limit exceeded for 20.172.27.157. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 10.484166706
+  seconds: 166.265375452
   version: 0.41.0
   what: judges-summary
-  when: 2025-06-19 15:13:32.162719277 Z
+  when: 2025-06-19 16:18:22.597344406 Z
 - _id: 1
-  _time: 2025-06-19 15:13:31.826936838 Z
+  _time: 2025-06-19 16:15:36.659694932 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-05-22 15:13:31.827121783 Z
-  what: quality-of-service
-  when: 2025-06-19 15:13:31.827084644 Z
-- _id: 2
-  _time: 2025-06-19 15:13:31.828405945 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-22 15:13:31.828543643 Z
+  since: 2025-05-22 16:15:36.659875228 Z
   what: quantity-of-deliverables
-  when: 2025-06-19 15:13:31.828510300 Z
+  when: 2025-06-19 16:15:36.659836827 Z
+- _id: 2
+  _time: 2025-06-19 16:18:22.079901070 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-22 16:18:22.080136619 Z
+  what: quality-of-service
+  when: 2025-06-19 16:18:22.080076778 Z
 - _id: 3
-  _time: 2025-06-19 15:13:32.161764993 Z
+  _time: 2025-06-19 16:18:22.263911751 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-06-19 15:13:32.161888614 Z
+  when: 2025-06-19 16:18:22.264028699 Z
