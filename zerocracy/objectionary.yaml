@@ -2,27 +2,39 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge quantity-of-deliverables stopped by timeout after 3m0s: execution
-    expired'
   inserted: 8
-  seconds: 180.339562087
+  seconds: 8.079482792
   version: 0.41.0
   what: judges-summary
-  when: 2025-06-21 20:16:03.459251437 Z
+  when: 2025-06-21 21:10:59.886039777 Z
 - _id: 1
-  _time: 2025-06-21 20:13:03.442392518 Z
+  _time: 2025-06-21 21:10:59.526491916 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-05-24 20:13:03.442642686 Z
-  what: quantity-of-deliverables
-  when: 2025-06-21 20:13:03.442605266 Z
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
 - _id: 2
-  _time: 2025-06-21 20:16:03.126237354 Z
+  _time: 2025-06-21 21:10:59.529072650 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-05-24 20:16:03.126399116 Z
-  what: quality-of-service
-  when: 2025-06-21 20:16:03.126362948 Z
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
 - _id: 3
-  _time: 2025-06-21 20:16:03.128004227 Z
+  _time: 2025-06-21 21:10:59.881126595 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-24 21:10:59.881299751 Z
+  what: quantity-of-deliverables
+  when: 2025-06-21 21:10:59.881262190 Z
+- _id: 4
+  _time: 2025-06-21 21:10:59.882665279 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-24 21:10:59.882802407 Z
+  what: quality-of-service
+  when: 2025-06-21 21:10:59.882768504 Z
+- _id: 5
+  _time: 2025-06-21 21:10:59.883943003 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-06-21 20:16:03.128107349 Z
+  when: 2025-06-21 21:10:59.884046718 Z
