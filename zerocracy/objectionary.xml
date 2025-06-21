@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="875">
+<fb version="0.9.6" size="894">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">18.85590683</seconds>
+    <seconds t="F">180.682877811</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-20T23:13:08Z</when>
+    <when t="T">2025-06-21T01:03:18Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-20T23:13:08Z</_time>
+    <_time t="T">2025-06-21T01:00:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <average_release_commits_size t="F">37.4</average_release_commits_size>
-    <average_release_hoc_size t="F">961.3</average_release_hoc_size>
-    <since t="T">2025-05-23T23:12:50Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-20T23:12:50Z</when>
+    <since t="T">2025-05-24T01:00:17Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-21T01:00:17Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-20T23:13:08Z</_time>
+    <_time t="T">2025-06-21T01:03:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-23T23:13:08Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-20T23:13:08Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-06-21T01:03:17Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-20T23:13:08Z</_time>
+    <_time t="T">2025-06-21T01:03:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-20T23:13:08Z</when>
+    <since t="T">2025-05-24T01:03:17Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-06-21T01:03:17Z</when>
   </f>
 </fb>
