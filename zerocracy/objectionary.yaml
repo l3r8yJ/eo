@@ -3,38 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 7.315496916
+  seconds: 9.499357042
   version: 0.41.0
   what: judges-summary
-  when: 2025-06-22 13:21:58.612994468 Z
+  when: 2025-06-22 14:11:36.045743432 Z
 - _id: 1
-  _time: 2025-06-22 13:21:58.241124319 Z
+  _time: 2025-06-22 14:11:36.031037377 Z
   _version: 0.10.0/0.41.0/
-  latest: 0
-  repository: 733919301
-  what: min-issue-was-found
-  where: github
-- _id: 2
-  _time: 2025-06-22 13:21:58.243819760 Z
-  _version: 0.10.0/0.41.0/
-  latest: 0
-  repository: 490258619
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-06-22 13:21:58.246408541 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-25 13:21:58.246563001 Z
+  since: 2025-05-25 14:11:36.031218867 Z
   what: quality-of-service
-  when: 2025-06-22 13:21:58.246525450 Z
-- _id: 4
-  _time: 2025-06-22 13:21:58.250615242 Z
+  when: 2025-06-22 14:11:36.031181096 Z
+- _id: 2
+  _time: 2025-06-22 14:11:36.034703828 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-05-25 14:11:36.034839021 Z
+  what: quantity-of-deliverables
+  when: 2025-06-22 14:11:36.034806650 Z
+- _id: 3
+  _time: 2025-06-22 14:11:36.035990162 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-06-22 13:21:58.250751198 Z
-- _id: 5
-  _time: 2025-06-22 13:21:58.252394941 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-05-25 13:21:58.252677522 Z
-  what: quantity-of-deliverables
-  when: 2025-06-22 13:21:58.252605537 Z
+  when: 2025-06-22 14:11:36.036092232 Z
