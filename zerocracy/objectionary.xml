@@ -1,54 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1060">
+<fb version="0.9.6" size="797">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">17.585916316</seconds>
+    <seconds t="F">10.019185981</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-27T15:13:51Z</when>
+    <when t="T">2025-06-27T16:16:18Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-27T15:13:51Z</_time>
+    <_time t="T">2025-06-27T16:16:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519299365</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
+    <since t="T">2025-05-30T16:16:17Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-27T16:16:17Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-27T15:13:51Z</_time>
+    <_time t="T">2025-06-27T16:16:17Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">499536612</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
+    <since t="T">2025-05-30T16:16:17Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-06-27T16:16:17Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-27T15:13:51Z</_time>
+    <_time t="T">2025-06-27T16:16:18Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-27T15:13:51Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-06-27T15:13:51Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-30T15:13:51Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-27T15:13:51Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-06-27T15:13:51Z</_time>
-    <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-05-30T15:13:51Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-27T15:13:51Z</when>
+    <when t="T">2025-06-27T16:16:18Z</when>
   </f>
 </fb>
