@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="856">
+<fb version="0.9.6" size="816">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">32.020072333</seconds>
+    <seconds t="F">7.008426509</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-03T12:26:04Z</when>
+    <when t="T">2025-07-03T13:26:38Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-03T12:26:03Z</_time>
+    <_time t="T">2025-07-03T13:26:37Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-05T12:25:32Z</since>
-    <total_issues_created t="I">233</total_issues_created>
-    <total_pulls_submitted t="I">110</total_pulls_submitted>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-03T12:25:32Z</when>
+    <total_repositories t="I">45</total_repositories>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-07-03T13:26:31Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-03T12:26:03Z</_time>
+    <_time t="T">2025-07-03T13:26:37Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-05T12:26:03Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-07-03T12:26:03Z</when>
+    <since t="T">2025-06-05T13:26:37Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-07-03T13:26:37Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-03T12:26:03Z</_time>
+    <_time t="T">2025-07-03T13:26:38Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-03T12:26:03Z</when>
+    <since t="T">2025-06-05T13:26:38Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-07-03T13:26:38Z</when>
   </f>
 </fb>
