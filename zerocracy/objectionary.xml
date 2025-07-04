@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1164">
+<fb version="0.9.6" size="789">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/eo/commits/24b038cfac2890e1deec2e8e804bcc9500ccef6e: 403 - API rate limit exceeded for 4.227.18.76. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">93.410264907</seconds>
+    <seconds t="F">10.288214634</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-04T14:14:17Z</when>
+    <when t="T">2025-07-04T15:13:05Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-04T14:12:44Z</_time>
+    <_time t="T">2025-07-04T15:13:05Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-06T14:12:44Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-04T14:12:44Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-07-04T15:13:05Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-04T14:14:17Z</_time>
+    <_time t="T">2025-07-04T15:13:05Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-06T14:14:17Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-07-04T14:14:17Z</when>
+    <since t="T">2025-06-06T15:13:05Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-07-04T15:13:05Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-04T14:14:17Z</_time>
+    <_time t="T">2025-07-04T15:13:05Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-04T14:14:17Z</when>
+    <since t="T">2025-06-06T15:13:05Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-07-04T15:13:05Z</when>
   </f>
 </fb>
