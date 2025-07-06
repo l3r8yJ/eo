@@ -1,37 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="889">
+<fb version="0.9.6" size="1061">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">Judge dimensions-of-terrain stopped by timeout after 3m0s: execution expired</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">180.663846677</seconds>
+    <seconds t="F">9.605396823</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-06T01:10:47Z</when>
+    <when t="T">2025-07-06T03:22:15Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-06T01:07:46Z</_time>
+    <_time t="T">2025-07-06T03:22:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-06T01:07:46Z</when>
+    <latest t="I">0</latest>
+    <repository t="I">489321585</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-06T01:10:46Z</_time>
+    <_time t="T">2025-07-06T03:22:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-08T01:10:46Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-07-06T01:10:46Z</when>
+    <latest t="I">0</latest>
+    <repository t="I">889819508</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-06T01:10:46Z</_time>
+    <_time t="T">2025-07-06T03:22:15Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-08T01:10:46Z</since>
+    <since t="T">2025-06-08T03:22:15Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-06T01:10:46Z</when>
+    <when t="T">2025-07-06T03:22:15Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-07-06T03:22:15Z</_time>
+    <_version t="S">0.10.0/0.41.0/</_version>
+    <since t="T">2025-06-08T03:22:15Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-07-06T03:22:15Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-07-06T03:22:15Z</_time>
+    <_version t="S">0.10.0/0.41.0/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-07-06T03:22:15Z</when>
   </f>
 </fb>
