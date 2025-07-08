@@ -2,26 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge find-all-issues stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 180.349065252
+  seconds: 9.962149326
   version: 0.41.0
   what: judges-summary
-  when: 2025-07-08 11:15:04.009025200 Z
+  when: 2025-07-08 12:26:28.893896961 Z
 - _id: 1
-  _time: 2025-07-08 11:15:03.668230092 Z
+  _time: 2025-07-08 12:26:28.890102883 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-06-10 11:15:03.668506459 Z
-  what: quantity-of-deliverables
-  when: 2025-07-08 11:15:03.668450184 Z
+  since: 2025-06-10 12:26:28.890283789 Z
+  what: quality-of-service
+  when: 2025-07-08 12:26:28.890245048 Z
 - _id: 2
-  _time: 2025-07-08 11:15:03.669748703 Z
+  _time: 2025-07-08 12:26:28.891350384 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-07-08 11:15:03.669895968 Z
+  when: 2025-07-08 12:26:28.891492899 Z
 - _id: 3
-  _time: 2025-07-08 11:15:04.008017305 Z
+  _time: 2025-07-08 12:26:28.892959827 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-06-10 11:15:04.008177414 Z
-  what: quality-of-service
-  when: 2025-07-08 11:15:04.008143471 Z
+  since: 2025-06-10 12:26:28.893090059 Z
+  what: quantity-of-deliverables
+  when: 2025-07-08 12:26:28.893058270 Z
