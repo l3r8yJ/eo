@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="903">
+<fb version="0.9.6" size="887">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">Judge quality-of-service stopped by timeout after 3m0s: execution expired</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">99.879851161</seconds>
+    <seconds t="F">180.382564282</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-09T10:16:51Z</when>
+    <when t="T">2025-07-09T11:15:03Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-09T10:16:50Z</_time>
+    <_time t="T">2025-07-09T11:12:03Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <average_release_commits_size t="F">14.17142857142857</average_release_commits_size>
-    <average_release_hoc_size t="F">2436.9714285714285</average_release_hoc_size>
-    <since t="T">2025-06-11T10:15:11Z</since>
+    <since t="T">2025-06-11T11:12:03Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-07-09T10:15:11Z</when>
+    <when t="T">2025-07-09T11:12:03Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-09T10:16:51Z</_time>
+    <_time t="T">2025-07-09T11:15:03Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-11T10:16:51Z</since>
+    <since t="T">2025-06-11T11:15:03Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-09T10:16:51Z</when>
+    <when t="T">2025-07-09T11:15:03Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-09T10:16:51Z</_time>
+    <_time t="T">2025-07-09T11:15:03Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-09T10:16:51Z</when>
+    <when t="T">2025-07-09T11:15:03Z</when>
   </f>
 </fb>
