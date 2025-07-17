@@ -2,25 +2,26 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'Judge label-was-attached stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 0.796134762
+  seconds: 180.366865159
   version: 0.41.0
   what: judges-summary
-  when: 2025-07-17 22:13:22.947730834 Z
+  when: 2025-07-17 23:17:08.129031261 Z
 - _id: 1
-  _time: 2025-07-17 22:13:22.607181410 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-06-19 22:13:22.607372466 Z
-  what: quantity-of-deliverables
-  when: 2025-07-17 22:13:22.607334866 Z
-- _id: 2
-  _time: 2025-07-17 22:13:22.608849219 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-06-19 22:13:22.609009858 Z
-  what: quality-of-service
-  when: 2025-07-17 22:13:22.608950257 Z
-- _id: 3
-  _time: 2025-07-17 22:13:22.610045126 Z
+  _time: 2025-07-17 23:17:07.769742864 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-07-17 22:13:22.610148889 Z
+  when: 2025-07-17 23:17:07.769984858 Z
+- _id: 2
+  _time: 2025-07-17 23:17:07.774019844 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-06-19 23:17:07.774157062 Z
+  what: quality-of-service
+  when: 2025-07-17 23:17:07.774123449 Z
+- _id: 3
+  _time: 2025-07-17 23:17:08.126585455 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-06-19 23:17:08.126758679 Z
+  what: quantity-of-deliverables
+  when: 2025-07-17 23:17:08.126722561 Z
