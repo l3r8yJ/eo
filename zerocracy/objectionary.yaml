@@ -2,26 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge quality-of-service stopped by timeout after 3m0s: execution expired'
+  error: 'GET https://api.github.com/repos/objectionary/try-phi/pulls/8/reviews?per_page=100:
+    403 - API rate limit exceeded for 172.203.191.34. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 180.349227497
+  seconds: 172.154546788
   version: 0.41.0
   what: judges-summary
-  when: 2025-07-19 08:19:30.073104430 Z
+  when: 2025-07-19 09:15:52.600690979 Z
 - _id: 1
-  _time: 2025-07-19 08:16:30.045583362 Z
+  _time: 2025-07-19 09:13:00.763639327 Z
   _version: 0.10.0/0.41.0/
-  since: 2025-06-21 08:16:30.045817943 Z
-  what: quality-of-service
-  when: 2025-07-19 08:16:30.045780032 Z
-- _id: 2
-  _time: 2025-07-19 08:19:29.735901594 Z
-  _version: 0.10.0/0.41.0/
-  since: 2025-06-21 08:19:29.736107662 Z
+  since: 2025-06-21 09:13:00.763810409 Z
   what: quantity-of-deliverables
-  when: 2025-07-19 08:19:29.736064671 Z
+  when: 2025-07-19 09:13:00.763766566 Z
+- _id: 2
+  _time: 2025-07-19 09:15:52.223031774 Z
+  _version: 0.10.0/0.41.0/
+  since: 2025-06-21 09:15:52.223224196 Z
+  what: quality-of-service
+  when: 2025-07-19 09:15:52.223189431 Z
 - _id: 3
-  _time: 2025-07-19 08:19:30.072025634 Z
+  _time: 2025-07-19 09:15:52.262685934 Z
   _version: 0.10.0/0.41.0/
   what: dimensions-of-terrain
-  when: 2025-07-19 08:19:30.072192908 Z
+  when: 2025-07-19 09:15:52.262784680 Z
