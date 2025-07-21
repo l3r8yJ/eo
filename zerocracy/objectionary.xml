@@ -1,40 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.9.6" size="1208">
+<fb version="0.9.6" size="789">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error>
-      <v t="S">GET https://api.github.com/repos/objectionary/ddr: 403 - API rate limit exceeded for 145.132.103.182. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</v>
-      <v t="S">Judge dimensions-of-terrain stopped by timeout after 3m0s: execution expired</v>
-    </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">257.47461294</seconds>
+    <seconds t="F">0.763187198</seconds>
     <version t="S">0.41.0</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-21T13:38:44Z</when>
+    <when t="T">2025-07-21T14:16:04Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-21T13:34:27Z</_time>
+    <_time t="T">2025-07-21T14:16:03Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-23T13:34:27Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-07-21T13:34:27Z</when>
+    <since t="T">2025-06-23T14:16:03Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-07-21T14:16:03Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-21T13:35:44Z</_time>
+    <_time t="T">2025-07-21T14:16:03Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-21T13:35:44Z</when>
+    <since t="T">2025-06-23T14:16:03Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-07-21T14:16:03Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-21T13:38:44Z</_time>
+    <_time t="T">2025-07-21T14:16:03Z</_time>
     <_version t="S">0.10.0/0.41.0/</_version>
-    <since t="T">2025-06-23T13:38:44Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-21T13:38:44Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-07-21T14:16:03Z</when>
   </f>
 </fb>
